@@ -20,4 +20,4 @@ bot.on('ready',function(){
       console.log("Hello!")
 })
 
-bot.login('NTMwOTg4NTY2MDUwODk3OTQ5.DxJOoQ.MAyMu7DJpzFMRRVo4dNjCRVEx98')
+bot.login('Tokennnn')
